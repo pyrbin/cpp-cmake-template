@@ -6,8 +6,6 @@
 
 **CMake** • **C++20** • **Minimal** • **Keywords...**
 
-<br>
-
 #### Table of Contents
 
 - [Features](#Features)

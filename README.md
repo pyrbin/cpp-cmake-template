@@ -8,7 +8,7 @@
 
 <br>
 
-### Table of Contents
+#### Table of Contents
 
 - [Features](#Features)
 - [API](#API)

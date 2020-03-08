@@ -37,9 +37,11 @@ int main()
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/pyrbin.png?s=150">
-        <br>
-        <a href="https://github.com/pyrbin">pyrbin</a>
+        <a href="https://github.com/pyrbin">
+            <img width="100" height="100" src="https://github.com/pyrbin.png?s=150">
+            <br>
+            pyrbin
+        </a>
       </td>
      </tr>
   </tbody>

@@ -1,6 +1,6 @@
-<a href="#"><img id="#logo" align="left" src="https://via.placeholder.com/100" width="200" style="margin-right: 15px"></a>
+<a href="#"><img id="#logo" align="left" src="https://via.placeholder.com/100" width="150" height="150" style="margin-right: 15px;"></a>
 
-## **cpp-cmake-template**
+## cpp-cmake-template
 
 **cpp-cmake-template** is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut **labore** et dolore magna aliqua. Ut enim ad **minim veniam**, quis nostrud exercitation ullamco laboris nisi
 
